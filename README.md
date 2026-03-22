@@ -1,4 +1,4 @@
-# 🛡️ PayloadFactory: Adversary Simulation & Evasion Lab
+# PayloadFactory: Adversary Simulation & Evasion Lab
 **An Educational Framework for Red Team Payload Generation & Obfuscation**
 
 
