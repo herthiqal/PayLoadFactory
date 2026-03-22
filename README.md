@@ -3,7 +3,7 @@
 
 
 ## Overview
-**PayloadFactory** is a full-stack security tool built on **Base44** designed to demonstrate how modern malware bypasses static and dynamic analysis. This project allows security researchers to generate "Safe-Malware" (PoC) scripts that execute benign actions like launching `notepad.exe` while employing advanced evasion techniques used by real-world threat actors.
+**PayloadFactory** is a full-stack security tool built on **Base44** designed to demonstrate how modern malware bypasses static and dynamic analysis. This project allows security researchers to generate "Safe-Malware" (PoC) scripts that execute benign actions like launching `calc.exe` while employing advanced evasion techniques used by real-world threat actors.
 
 ### Key Features
 * **Multi-Vector Generation:** Supports PowerShell, VBScript, and Batch payloads.
