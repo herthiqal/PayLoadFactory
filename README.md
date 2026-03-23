@@ -45,14 +45,14 @@ To remain "quiet" on a network, attackers avoid bringing their own tools and ins
 This framework is specifically designed for **Windows-based security auditing**. While the dashboard is a web-based interface, the generated payloads are designed to test the following environments:
 
 * **Primary Operating Systems:** Windows 10 / Windows 11 (64-bit)
-* **Target Defenses:** * **Microsoft Defender Antivirus** (Core focus)
+* **Target Defenses:** **Microsoft Defender Antivirus** (Core focus)
      **Third-Party EDR/AV Solutions** (Norton, McAfee, Bitdefender, etc.)
      **AMSI (Antimalware Scan Interface)**
 * **Execution Environment:** **PowerShell 5.1+**
      **Windows Script Host** (for VBScript payloads)
      **Command Prompt** (for Batch payloads)
 
-> **Note:** These payloads will not execute on macOS or Linux as they rely on native Windows binaries and internal system processes.
+ **Note:** These payloads will not execute on macOS or Linux as they rely on native Windows binaries and internal system processes.
 
 ##  Ethical Disclaimer
 This tool is for **educational and authorized testing purposes only**. The author is not responsible for any misuse of this software. All generated payloads are designed to be non-malicious and are used to test the efficacy of defensive security controls (AV/EDR).
