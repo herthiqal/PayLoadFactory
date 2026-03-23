@@ -1,9 +1,7 @@
 # PayloadFactory: Adversary Simulation & Evasion Lab
 **An Educational Framework for Red Team Payload Generation & Obfuscation**
 
-[** View Live Demo**](https:// simulation-labs.base44.app
-
-)
+[** View Live Demo**](https:// simulation-labs.base44.app)
 
 
 ## Overview
