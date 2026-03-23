@@ -1,6 +1,10 @@
 # PayloadFactory: Adversary Simulation & Evasion Lab
 **An Educational Framework for Red Team Payload Generation & Obfuscation**
 
+[** View Live Demo**](https:// simulation-labs.base44.app
+
+)
+
 
 ## Overview
 **PayloadFactory** is a full-stack security tool built on **Base44** designed to demonstrate how modern malware bypasses static and dynamic analysis. This project allows security researchers to generate "Safe-Malware" (PoC) scripts that execute benign actions like launching `calc.exe` while employing advanced evasion techniques used by real-world threat actors.
