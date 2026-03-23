@@ -46,11 +46,11 @@ This framework is specifically designed for **Windows-based security auditing**.
 
 * **Primary Operating Systems:** Windows 10 / Windows 11 (64-bit)
 * **Target Defenses:** * **Microsoft Defender Antivirus** (Core focus)
-    * **Third-Party EDR/AV Solutions** (Norton, McAfee, Bitdefender, etc.)
-    * **AMSI (Antimalware Scan Interface)**
-* **Execution Environment:** * **PowerShell 5.1+**
-    * **Windows Script Host** (for VBScript payloads)
-    * **Command Prompt** (for Batch payloads)
+     **Third-Party EDR/AV Solutions** (Norton, McAfee, Bitdefender, etc.)
+     **AMSI (Antimalware Scan Interface)**
+* **Execution Environment:** **PowerShell 5.1+**
+     **Windows Script Host** (for VBScript payloads)
+     **Command Prompt** (for Batch payloads)
 
 > **Note:** These payloads will not execute on macOS or Linux as they rely on native Windows binaries and internal system processes.
 
